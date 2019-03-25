@@ -1,0 +1,1 @@
+FLAG='flag{I_wAs_th3_sh4d0w_Of_the_waXwing_sLAin__By_the_fAlse_@4zure9_in_the_window_pan3}'
